@@ -1,2 +1,2 @@
 # mit-adsp
-Projects completed as part of MIT's Applied Data Science Program
+Projects completed when participating in MIT's Applied Data Science Program.
